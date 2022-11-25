@@ -1,0 +1,6 @@
+.alert{
+    height: 30px;
+    background-color: rgb(131, 5, 5);
+    color: white;
+    display: none;
+}
